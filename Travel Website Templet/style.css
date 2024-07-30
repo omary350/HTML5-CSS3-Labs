@@ -7,7 +7,7 @@ html, body {
 
 .firstSection{
     filter: brightness(90%); 
-    background-image: url('backGround.jpg');
+    background-image: url('./assets/backGround.jpg');
     height: 100vh;
     width: 100vw;
    background-size: cover;
